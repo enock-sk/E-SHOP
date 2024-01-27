@@ -30,3 +30,4 @@ You need to have Android Studio and an Android emulator or a physical device to 
 1. Clone the repository:
    ```sh
    git clone https://github.com/username/e-shop.git
+   ##NOTE: SOME FEATURES ARE STILL UNDER MAINTENANCE
